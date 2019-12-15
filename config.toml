@@ -1,0 +1,63 @@
+baseurl = "https://philintheblank.me/" 
+languageCode = "en-us"
+title = "Phil in the blank"
+theme = "hugo-ink"
+paginate = 5
+
+copyright = "© Phil Nguyen 2020"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-140178220-1"
+disqusShortname = "phil-nguyen"
+
+[params]
+	subtitle = "Musings on life and living."
+
+	# Optional 64x64 avatar image.
+	avatar = "/images/myAvatar.svg"
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/lifelivedinbooks/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/NguyenHPhil"
+
+[taxonomies]
+   tag = "tags"
