@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Phil Nguyen 2020</copyright>
-    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>adulthood</title>
+      <link>/tags/adulthood/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/adulthood/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>fall2019</title>
@@ -90,15 +99,6 @@
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/sentiments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>adulthood</title>
-      <link>/tags/adulthood/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/adulthood/</guid>
       <description></description>
     </item>
     

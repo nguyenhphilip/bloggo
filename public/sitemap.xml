@@ -14,20 +14,31 @@
   </url>
   
   <url>
-    <loc>/posts/2019-12-12-fall-2019/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <loc>/posts/ode-to-adulthood/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/adulthood/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2019-12-12-fall-2019/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -112,12 +123,6 @@
   <url>
     <loc>/posts/adulthood/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/adulthood/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
