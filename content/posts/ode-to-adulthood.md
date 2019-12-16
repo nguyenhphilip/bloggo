@@ -9,8 +9,6 @@ categories:
   - reflections
 ---
 
-In playful response to an article posted on The Atlantic, ["An Ode to Middle Age"](https://www.theatlantic.com/magazine/archive/2020/01/ode-to-middle-age/603067/):
-
 There’s this drawing of a banana. Toward the stem it is fresh, premature, and budding with potential; toward the other end it is weathered and well-defined, filled with the hard-earned sweetness and history that a full life bestows. 
 
 Two dashed lines split the picture into thirds, and middle age is the centerpiece. Before it, the world pulls you in with its long and wide arms, with its promises of invention and discovery, grievance and uncertainty, joy and adventure; afterward, the world opens itself up again, only to allow you to return that which you have reaped. 
@@ -24,3 +22,5 @@ The brimming horizon of the future is within our line of sight, though what illu
 And when that happens, should we have the sense to hang onto it for as long as possible, something beautiful emerges.
 
 ![Pablo Amargo, sourced via The Atlantic](/../photos/banana.jpg)
+
+In playful response to an article posted on The Atlantic, ["An Ode to Middle Age"](https://www.theatlantic.com/magazine/archive/2020/01/ode-to-middle-age/603067/)
