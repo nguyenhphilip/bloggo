@@ -1,5 +1,5 @@
 ---
-  date: "2020-1-26"
+date: "2020-1-26"
 title: "Intensity"
 images:
   - /../photos/intensity.jpeg
