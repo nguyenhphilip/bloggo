@@ -3,26 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/devotion/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+    <loc>/posts/intensity/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/relationships/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/devotion/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -72,23 +83,6 @@
   <url>
     <loc>/tags/fall2019/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/trippy/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/happiness/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/psilocybin/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
